@@ -1,0 +1,13 @@
+.remoteVideo {
+    width:100%;
+    max-width: 450px;
+  
+}
+
+#localVideo {
+    width:100%;
+    max-width: 150px;
+    margin-top: 0;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
